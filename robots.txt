@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-walls-newcastle-questions-to-ask-69e83f90f4a0937de/sitemap.xml
